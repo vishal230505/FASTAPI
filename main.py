@@ -16,9 +16,6 @@ Original file is located at
 # ============================
 
 import os
-!pip install pytesseract
-!pip install fastapi
-!pip install python-multipart
 import json
 import joblib
 import requests
